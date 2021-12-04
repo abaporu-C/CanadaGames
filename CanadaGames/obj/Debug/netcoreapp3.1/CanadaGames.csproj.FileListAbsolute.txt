@@ -1,0 +1,431 @@
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\appsettings.json
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.StaticWebAssets.xml
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.exe
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.deps.json
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.runtimeconfig.json
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.runtimeconfig.dev.json
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.pdb
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.Views.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.Views.pdb
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.AssemblyReference.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.AssemblyInfoInputs.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.AssemblyInfo.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.CoreCompileInputs.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.MvcApplicationPartsAssemblyInfo.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.MvcApplicationPartsAssemblyInfo.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorAssemblyInfo.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorAssemblyInfo.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\staticwebassets\CanadaGames.StaticWebAssets.Manifest.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\staticwebassets\CanadaGames.StaticWebAssets.xml
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\scopedcss\bundle\CanadaGames.styles.css
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.TagHelpers.input.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.TagHelpers.output.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorCoreGenerate.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorTargetAssemblyInfo.cache
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorTargetAssemblyInfo.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.Views.pdb
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.CopyComplete
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.dll
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.pdb
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.genruntimeconfig.cache
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Create.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Delete.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Details.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Edit.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Index.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Create.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Delete.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Details.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Edit.cshtml.g.cs
+C:\CG Project\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.StaticWebAssets.xml
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.exe
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.deps.json
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.runtimeconfig.json
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.runtimeconfig.dev.json
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.pdb
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.Views.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\CanadaGames.Views.pdb
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V3.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Identity.UI.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.AspNetCore.Razor.Language.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Razor.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Core.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Identity.Stores.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\dotnet-aspnet-codegenerator-design.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\NuGet.Frameworks.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SkiaSharp.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.AttributedModel.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Convention.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Hosting.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.Runtime.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Composition.TypedParts.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\Microsoft.Data.SqlClient.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\osx\native\libSkiaSharp.dylib
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\libSkiaSharp.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Runtime.Caching.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.AssemblyReference.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.GeneratedMSBuildEditorConfig.editorconfig
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.AssemblyInfoInputs.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.AssemblyInfo.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.CoreCompileInputs.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.MvcApplicationPartsAssemblyInfo.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.MvcApplicationPartsAssemblyInfo.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorAssemblyInfo.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorAssemblyInfo.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\staticwebassets\CanadaGames.StaticWebAssets.Manifest.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\staticwebassets\CanadaGames.StaticWebAssets.xml
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\scopedcss\bundle\CanadaGames.styles.css
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.TagHelpers.input.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.TagHelpers.output.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorCoreGenerate.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthleteDocuments\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthleteDocuments\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthleteDocuments\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthletePlacements\Add.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthletePlacements\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthletePlacements\Remove.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\AthletePlacements\Update.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Details.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Athletes\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Details.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Coaches\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Contingents\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Contingents\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Contingents\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Contingents\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Genders\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Genders\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Genders\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Genders\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Hometowns\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Hometowns\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Hometowns\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Hometowns\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Lookups\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Lookups\_Contingents.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Lookups\_Genders.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Lookups\_Hometowns.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PageSizeModal.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_PagingNavBar.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Sports\Create.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Sports\Delete.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Sports\Details.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Sports\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\Sports\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorTargetAssemblyInfo.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.RazorTargetAssemblyInfo.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.Views.pdb
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.csproj.CopyComplete
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.pdb
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\CanadaGames.genruntimeconfig.cache
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Index.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\obj\Debug\netcoreapp3.1\Razor\Views\UserRoles\Edit.cshtml.g.cs
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\EPPlus.dll
+C:\Niagara College\Third Term\PROG1322\Assignment 4\CanadaGamesSolution_Part3ABC_v1.1\CanadaGames\CanadaGames\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
