@@ -34,8 +34,6 @@ namespace CanadaGames.Controllers
         }
 
         // POST: Genders/Create
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [Authorize(Roles = "Admin,Supervisor")]
         [ValidateAntiForgeryToken]
@@ -76,8 +74,6 @@ namespace CanadaGames.Controllers
         }
 
         // POST: Genders/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [Authorize(Roles = "Admin,Supervisor")]
         [ValidateAntiForgeryToken]
@@ -158,8 +154,7 @@ namespace CanadaGames.Controllers
             return View(gender);
 
         }
-
-        //Add this...
+        
         private string ControllerName()
         {
             return this.ControllerContext.RouteData.Values["controller"].ToString();

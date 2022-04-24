@@ -42,9 +42,7 @@ namespace CanadaGames.Controllers
 
             //Toggle the Open/Closed state of the collapse depending on if we are filtering
             ViewData["Filtering"] = "btn-outline-dark"; //Asume not filtering
-            //Then in each "test" for filtering, add ViewData["Filtering"] = "btn-danger" if true;
 
-            //NOTE: make sure this array has matching values to the column headings
             string[] sortOptions = new[] { "Place", "Sport", "Event" };
 
             var placements = from p in _context.Placements
@@ -64,8 +62,7 @@ namespace CanadaGames.Controllers
                 placements = placements.Where(p => p.Comments.ToUpper().Contains(SearchString.ToUpper()));
                 ViewData["Filtering"] = "btn-danger";
             }
-            //Before we sort, see if we have called for a change of filtering or sorting
-            if (!String.IsNullOrEmpty(actionButton)) //Form Submitted so lets sort!
+            if (!String.IsNullOrEmpty(actionButton)) //Sort Form Submitted
             {
                 page = 1;//Reset back to first page when sorting or filtering
 
@@ -173,8 +170,6 @@ namespace CanadaGames.Controllers
         }
 
         // POST: Placement/Add
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [Authorize(Roles = "Admin,Supervisor")]
         [ValidateAntiForgeryToken]
@@ -237,8 +232,6 @@ namespace CanadaGames.Controllers
         }
 
         // POST: Placement/Update/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [Authorize(Roles = "Admin,Supervisor")]
         [ValidateAntiForgeryToken]
@@ -364,9 +357,6 @@ namespace CanadaGames.Controllers
 
         private void PopulateDropDownLists(Athlete athlete = null, int? EventID = null)
         {
-            //BONUS - to filter for gender as well as main or alternate sports.  
-            //Until we learn how to pull data from VIews in the database we need to get the data first
-            //and apply filters for sports locally
             List<Event> events = new List<Event>();
             if (athlete != null)
             {

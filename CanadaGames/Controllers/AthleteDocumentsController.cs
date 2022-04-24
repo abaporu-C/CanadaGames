@@ -87,8 +87,6 @@ namespace CanadaGames.Controllers
         }
 
         // POST: AthleteDocuments/Edit/5
-        // To protect from overposting attacks, enable the specific properties you want to bind to, for 
-        // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [Authorize(Roles = "Admin,Supervisor")]
         [ValidateAntiForgeryToken]
@@ -129,7 +127,6 @@ namespace CanadaGames.Controllers
                 }
                 catch (DbUpdateException)
                 {
-                    //Note: there is really no reason a delete should fail if you can "talk" to the database.
                     ModelState.AddModelError("", "Unable to edit file. Try again, and if the problem persists see your system administrator.");
                 }
             }
@@ -179,7 +176,6 @@ namespace CanadaGames.Controllers
             }
             catch (DbUpdateException)
             {
-                //Note: there is really no reason a delete should fail if you can "talk" to the database.
                 ModelState.AddModelError("", "Unable to delete file. Try again, and if the problem persists see your system administrator.");
             }
             return View(athleteDocument);

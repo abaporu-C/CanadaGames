@@ -9951,23 +9951,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Administrator\\.nuget\\packages\\": {},
+    "C:\\Users\\vinic\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Niagara College\\Third Term\\PROG1322\\Assignment 4\\CanadaGamesSolution_Part3ABC_v1.1\\CanadaGames\\CanadaGames\\CanadaGames.csproj",
+      "projectUniqueName": "C:\\Projects\\CanadaGames\\CanadaGames\\CanadaGames.csproj",
       "projectName": "CanadaGames",
-      "projectPath": "C:\\Niagara College\\Third Term\\PROG1322\\Assignment 4\\CanadaGamesSolution_Part3ABC_v1.1\\CanadaGames\\CanadaGames\\CanadaGames.csproj",
-      "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "C:\\Niagara College\\Third Term\\PROG1322\\Assignment 4\\CanadaGamesSolution_Part3ABC_v1.1\\CanadaGames\\CanadaGames\\obj\\",
+      "projectPath": "C:\\Projects\\CanadaGames\\CanadaGames\\CanadaGames.csproj",
+      "packagesPath": "C:\\Users\\vinic\\.nuget\\packages\\",
+      "outputPath": "C:\\Projects\\CanadaGames\\CanadaGames\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\vinic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -10051,7 +10051,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }
